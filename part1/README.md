@@ -7,6 +7,12 @@
             --->push method is usedto ass new wlwment ot the array<br>
             ---> In React it is adviced to use concat method as it created a new array withoout altering the original array<br>
             --->map method in array creates a new array with mapped corresponding elements and the function paramenter is used to define the elements<br>
-            --->Destructing an array can be used to assign variables the values of arrays<br></p>
+            --->Destructing an array can be used to assign variables the values of arrays<br></p><br>
+            <p>
+       -->Objects
+            ---> it can be defied in multiple methods common one is obect literals {}<br>
+            --->The values of the properties can be of any type, like integers, strings, arrays, objects...<br>
+            --->Object's properties can be refrenced through dot notation and also properties can be added<br>
+            --->
 
 
