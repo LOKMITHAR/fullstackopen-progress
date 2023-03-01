@@ -15,6 +15,8 @@ const App =() =>{
         )
     }
     const Part = (props) =>{
+        // let part =''
+        // let exer = 0
         return(
             <div>
                 <p>
@@ -27,8 +29,8 @@ const App =() =>{
         return(
             <div>
                 <Part part={part1} exer={exercises1}/>
-                <Part part={part2}exer={exercises2}/>
-                <Part part={part3}exer={exercises3}/>
+                <Part part={part2} exer={exercises2}/>
+                <Part part={part3} exer={exercises3}/>
             </div>
         )
     }
