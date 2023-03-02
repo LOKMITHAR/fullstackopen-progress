@@ -34,7 +34,8 @@ const App = () => {
             </div>
         )
     }
-    const Content = () => {
+    const Content = (props) => {
+        console.log(props)
         return(
             <div>
                 <Part part={parts[0].name} exer={parts[0].exercises}/>
@@ -54,7 +55,7 @@ const App = () => {
     }
     return(
         <div>
-            <Header content={course}/>
+            <Header course={course}/>
             <Content parts={parts}/>
             <Total parts={parts}/>
         </div>
