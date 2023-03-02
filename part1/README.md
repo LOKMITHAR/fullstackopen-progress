@@ -13,8 +13,8 @@
             ---> it can be defied in multiple methods common one is obect literals {}<br>
             --->The values of the properties can be of any type, like integers, strings, arrays, objects...<br>
             --->Object's properties can be refrenced through dot notation and also properties can be added<br>
-     <p>-->Functions
-            ---> Functions in JavaScript can be defined with => arrow function followed with {} curly braces
-            ---> function() expression can also be used define function
+     <p>-->Functions<br>
+            ---> Functions in JavaScript can be defined with => arrow function followed with {} curly braces<br>
+            ---> function() expression can also be used define function<br>
 
 
