@@ -19,6 +19,6 @@
             <br>
      <h3>Exercises</h3><br><p>
         -> The first exercise 1.3 => we obtain values from obects and use the values to render on react as obejcts are not valid as react child<br>
-        -> 
+        -> the exercises in s part defined how to obtain data from object and render the element 
 
 
