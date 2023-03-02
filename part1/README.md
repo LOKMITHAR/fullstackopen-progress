@@ -15,6 +15,10 @@
             --->Object's properties can be refrenced through dot notation and also properties can be added<br>
      <p>-->Functions<br>
             ---> Functions in JavaScript can be defined with => arrow function followed with {} curly braces<br>
-            ---> function() expression can also be used define function<br>
+            ---> function() expression can also be used define function<br></p>
+            <br>
+     <h3>Exercises</h3><br><p>
+        -> The first exercise 1.3 => we obtain values from obects and use the values to render on react as obejcts are not valid as react child<br>
+        -> 
 
 
