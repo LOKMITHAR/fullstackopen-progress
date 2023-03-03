@@ -46,3 +46,13 @@ assign values<br>
 </ul>
 
 
+<h4>Component helper functions</h4>
+<ul>
+       <li>We can define a function within a function for easy organisation of attributes</li>
+</ul>
+<h4>Destructuring</h4>
+<ul>
+       <li>Instead of using props again and again to obtain value we can initially declare them to a variable for further usage</li>
+       <li> if an arrow function consists of a single expression, then the function body does not need to be written inside of curly braces</li>
+       <li>Destructuring makes the assignment of variables even easier since we can use it to extract and gather the values of an object's properties into separate variables</li>
+</ul>
