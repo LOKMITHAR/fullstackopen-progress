@@ -42,7 +42,7 @@ assign values<br>
 <h4>classes</h4>
 <ul>
        <li>class in JS doesnt refer to any of the concepts in OOPS</li>
-       <li>class can be used in many ways but it is not conventional in mordern times as there is a new feature of hooks in React</li>
+       <li>class can be used in many ways but it is not conventional in mordern times as there is a new feature of hooks</li>
 </ul>
 
 
