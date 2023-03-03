@@ -37,7 +37,11 @@ assign values<br>
        <li>an object can have n number of functions with unique names and can be called using 'dot'</li>
        <li>we can also store method reference in a variable and calling the method through the variable</li>
        <li>we get into a hurdle when we assign a method in an object , assign it to a refrence variable and use 'this'- it becomes a global attribute and doesnt know what the intended value was 'undefinite'</li>
+       <li>to prevent this grom being undefined we use 'bind' method which binds the called funtion to refrence obect rather than considering it global</li>
 </ul>
-
+<h4>classes</h4>
+<ul>
+       <li>class in JS doesnt refer to any of the concepts in OOPS</li>
+</ul>
 
 
