@@ -55,4 +55,6 @@ assign values<br>
        <li>Instead of using props again and again to obtain value we can initially declare them to a variable for further usage</li>
        <li> if an arrow function consists of a single expression, then the function body does not need to be written inside of curly braces</li>
        <li>Destructuring makes the assignment of variables even easier since we can use it to extract and gather the values of an object's properties into separate variables</li>
+       <li>in destructuring of object values we can exclude the use of props instead we can directly assign the values in the () of function const Hello = ({ name, age }) => {</li>
+       <li>we can destructure the props ojbect too for further simplification of code</li>
 </ul>
