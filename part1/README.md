@@ -58,4 +58,4 @@ assign values<br>
        <li>in destructuring of object values we can exclude the use of props instead we can directly assign the values in the () of function const Hello = ({ name, age }) => {</li>
        <li>we can destructure the props ojbect too for further simplification of code</li>
 </ul>
-<h4>State Calling</h4>
+<h4>Stateful Component</h4>
