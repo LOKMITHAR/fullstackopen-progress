@@ -59,3 +59,6 @@ assign values<br>
        <li>we can destructure the props ojbect too for further simplification of code</li>
 </ul>
 <h4>Stateful Component</h4>
+<ul>
+       <li>State hook is used to define a state for a component</li>
+</ul>
