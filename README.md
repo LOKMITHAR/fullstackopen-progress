@@ -9,4 +9,4 @@ This is for my NoteTaking
     <li><a href="https://github.com/LOKMITHAR/fullstackopen-progress/blob/main/part0/05.md">Ex:0.5</a></li>
     <li><a href="https://github.com/LOKMITHAR/fullstackopen-progress/blob/main/part0/06.md">Ex:0.6</a></li>
 </ul>
-<h2>Part1</h2>
+<h2><a href="https://github.com/LOKMITHAR/fullstackopen-progress/tree/main/part1">Part1</a></h2>
