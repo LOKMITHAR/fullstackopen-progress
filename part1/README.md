@@ -60,5 +60,5 @@ assign values<br>
 </ul>
 <h4>Stateful Component</h4>
 <ul>
-       <li>State hook is used to define a state for a component</li>
+       <li>State hook is used to define a state for a component.</li>
 </ul>
